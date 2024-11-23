@@ -73,7 +73,7 @@ Ez a dokumentum egy cipőket árusító weboldal követelményeit tartalmazza. A
 - **Adatbázis**:  
   - MySQL/MariaDB.
 
-## 6. Dokumentáció
+## 5. Dokumentáció
 
 ### **Felhasználói útmutató**:
 A felhasználói útmutató célja, hogy segítse a vásárlókat és adminisztrátorokat az oldal használatában. A következő területek lefedése szükséges:
